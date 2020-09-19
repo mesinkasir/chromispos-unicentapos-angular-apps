@@ -1,6 +1,6 @@
 # Chromispos Unicenta opos apps
 
-### Dashboard simple front end for chromispos unicenta
+### Dashboard simple front end for chromis pos unicenta
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 9.1.9.
 
