@@ -29,7 +29,6 @@ Cash flow logs
 How to install ??
 For first you must download
 + XAMPP
-+ Java
 + Npm / Git
 + Angular
 
