@@ -1,4 +1,4 @@
-# Chromispos apps
+# Chromispos Unicenta opos apps
 
 ### Dashboard simple front end for chromispos unicenta
 
@@ -47,6 +47,10 @@ open web browser localhost:4200
 This apps can work with unicenta opos too..
 
 Soon... update with login username and password.
+
+## Video Installation
+follow video installation if you need detail how to install this apps.
+https://youtu.be/-Gv1Ibi2OeM
 
 ## Development server
 
