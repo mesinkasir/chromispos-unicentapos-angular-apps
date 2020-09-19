@@ -40,7 +40,8 @@ Extract folder download and copy on htdocs name folder with angular, then extrac
 Configure connection databased on htdocs/angular/connection open file with text editor, then change database.
 you just need to change database    $dbname     = "yourdatabase";  only on  connect.php , conn.php , cost.php , pp.php , us.php
 finish now you have configure a chromispos front end backoffice with angular.
-now right click on angular folder and select git bash then run command : npm i && ng serve
+now right click on angular folder and select git bash then run command : 'npm i && ng serve'
+
 open web browser localhost:4200
 
 This apps can work with unicenta opos too..
