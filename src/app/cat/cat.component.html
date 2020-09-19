@@ -1,0 +1,16 @@
+<div class="col-12 col-md-12">
+	<table class="table shadow rounded">
+		<thead>
+			<tr class="bg-danger text-white">
+				<th scope="col">Name</th>
+				<th scope="col">Text Tip</th>
+			</tr>
+		</thead>
+		<tbody>
+			<tr *ngFor="let mydata of data[0]">
+				<td>{{mydata.NAME}}</td>
+				<td>{{mydata.TEXTTIP}}</td>
+			</tr>
+		</tbody>
+	</table>
+</div>

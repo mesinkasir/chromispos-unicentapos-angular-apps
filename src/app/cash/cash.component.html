@@ -1,0 +1,20 @@
+<div class="col-12 col-md-12">
+	<table class="table shadow rounded">
+		<thead>
+			<tr class="bg-danger text-white">
+				<th scope="col">Payment</th>
+				<th scope="col">Tendered</th>
+				<th scope="col">Total</th>
+				<th scope="col">Notes</th>
+			</tr>
+		</thead>
+		<tbody>
+			<tr *ngFor="let mydata of data[0]">
+				<td>{{mydata.PAYMENT}}</td>
+				<td>{{mydata.TENDERED}}</td>
+				<td>{{mydata.TOTAL}}</td>
+				<td>{{mydata.NOTES}}</td>
+			</tr>
+		</tbody>
+	</table>
+</div>

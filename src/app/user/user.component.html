@@ -1,0 +1,17 @@
+<div class="row">
+	<div class="col-12 col-md-3 p-3 p-md-5"></div>
+	<div class="col-12 col-md-6">
+		<table class="table shadow rounded">
+			<thead>
+				<tr class="bg-danger text-white">
+					<th scope="col">User Name List</th>
+				</tr>
+			</thead>
+			<tbody>
+				<tr *ngFor="let mydata of data[0]">
+					<td>{{mydata.NAME}}</td>
+				</tr>
+			</tbody>
+		</table>
+	</div>
+</div>
