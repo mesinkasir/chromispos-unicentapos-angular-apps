@@ -47,6 +47,7 @@ open web browser localhost:4200
 This apps can work with unicenta opos too..
 
 Soon... update with login username and password.
+Or you can integration using Auth with firebase API for simple login.
 
 ## Video Installation
 follow video installation if you need detail how to install this apps.
