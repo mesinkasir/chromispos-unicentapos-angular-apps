@@ -1,37 +1,81 @@
-## Welcome to GitHub Pages
+# Chromispos Unicenta opos apps
 
-You can use the [editor on GitHub](https://github.com/mesinkasir/chromispos-unicentapos-angular-apps/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+### Dashboard simple front end for chromis pos unicenta
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 9.1.9.
 
-### Markdown
+![Chromispos unincenta pos online web apps.](https://a.fsdn.com/con/app/proj/chromis-unicenta-online-apps/screenshots/chromispos%20unicenta%20online%20web%20app%20%287%29.png/max/max/1)
+Home dashboard
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+![Chromispos unincenta pos online web apps.](https://a.fsdn.com/con/app/proj/chromis-unicenta-online-apps/screenshots/chromispos%20unicenta%20online%20web%20app%20%286%29.png/max/max/1)
+User account
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+![Chromispos unincenta pos online web apps.](https://a.fsdn.com/con/app/proj/chromis-unicenta-online-apps/screenshots/chromispos%20unicenta%20online%20web%20app%20%285%29.png/max/max/1)
+Categories items
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
+![Chromispos unincenta pos online web apps.](https://a.fsdn.com/con/app/proj/chromis-unicenta-online-apps/screenshots/chromispos%20unicenta%20online%20web%20app%20%284%29.png/max/max/1)
+Cost Price product and item
 
-**Bold** and _Italic_ and `Code` text
+![Chromispos unincenta pos online web apps.](https://a.fsdn.com/con/app/proj/chromis-unicenta-online-apps/screenshots/chromispos%20unicenta%20online%20web%20app%20%283%29.png/max/max/1)
+Sell price product items
 
-[Link](url) and ![Image](src)
-```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+![Chromispos unincenta pos online web apps.](https://a.fsdn.com/con/app/proj/chromis-unicenta-online-apps/screenshots/chromispos%20unicenta%20online%20web%20app%20%282%29.png/max/max/1)
+Cash flow logs
 
-### Jekyll Themes
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/mesinkasir/chromispos-unicentapos-angular-apps/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+How to install ??
+For first you must download
++ XAMPP
++ Npm / Git
++ Angular
 
-### Support or Contact
+Run XAMPP server
+For first download chromispos desktop software and then create new mysql database on chromispos
+Download this front end chromispos angular dashboard admin apps .
+install angular with run git/npm command : npm install -g @angular/cli
+Extract folder download and copy on htdocs name folder with angular, then extract all donwload folder on htdocs/angular.
+Configure connection databased on htdocs/angular/connection open file with text editor, then change database.
+you just need to change database    $dbname     = "yourdatabase";  only on  connect.php , conn.php , cost.php , pp.php , us.php
+finish now you have configure a chromispos front end backoffice with angular.
+now right click on angular folder and select git bash then run command : `npm i && ng serve`
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+open web browser localhost:4200
+
+This apps can work with unicenta opos too..
+
+Soon... update with login username and password.
+Or you can integration using Auth with firebase API for simple login.
+
+## Video Installation
+follow video installation if you need detail how to install this apps.
+https://youtu.be/-Gv1Ibi2OeM
+
+## Development server
+
+Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
+
+## Code scaffolding
+
+Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+
+## Build
+
+Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory. Use the `--prod` flag for a production build.
+
+## Running unit tests
+
+Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+
+## Running end-to-end tests
+
+Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protractortest.org/).
+
+## Further help
+
+To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
+
+
+Chromispos angular made with ❤ by [laravelapp.sourceforge.io](https://laravelapp.sourceforge.io)
