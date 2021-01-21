@@ -4,6 +4,11 @@
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 9.1.9.
 
+
+For full installation and documentation visit here :
+https://www.hockeycomputindo.com/2020/10/unicenta-pos-with-online-clouds-angular.html
+
+
 ![Chromispos unincenta pos online web apps.](https://a.fsdn.com/con/app/proj/chromis-unicenta-online-apps/screenshots/chromispos%20unicenta%20online%20web%20app%20%287%29.png/max/max/1)
 Home dashboard
 
@@ -76,6 +81,10 @@ Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protrac
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
+
+
+For full installation and documentation visit here :
+https://www.hockeycomputindo.com/2020/10/unicenta-pos-with-online-clouds-angular.html
 
 
 Chromispos angular made with ❤ by [laravelapp.sourceforge.io](https://laravelapp.sourceforge.io)
