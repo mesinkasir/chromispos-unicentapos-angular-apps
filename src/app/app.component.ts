@@ -9,7 +9,7 @@ export class AppComponent {
   title = 'angularphp';
     data = [];
   constructor(private http: HttpClient) {
-    this.http.get('http://localhost:7777/angular/connection/connect.php').subscribe(data => {
+    this.http.get('http://localhost/angular/connection/connect.php').subscribe(data => {
     this.data.push(data);
     console.log(this.data);
   
