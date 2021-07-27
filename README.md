@@ -9,25 +9,25 @@ For full installation and documentation visit here :
 https://www.hockeycomputindo.com/2020/10/unicenta-pos-with-online-clouds-angular.html
 
 
-![Chromispos unincenta pos online web apps.](https://a.fsdn.com/con/app/proj/chromis-unicenta-online-apps/screenshots/chromispos%20unicenta%20online%20web%20app%20%287%29.png/max/max/1)
+![Chromispos unincenta pos online web apps.](https://1.bp.blogspot.com/-psPtUTzwijU/X2cgW-ISbsI/AAAAAAAALdA/fe0RonYapqAk16KN-74Jm6OKWLHZog2JwCLcBGAsYHQ/s1366/chromispos%2Bunicenta%2Bonline%2Bweb%2Bapp%2B%25287%2529.png)
 Home dashboard
 
-![Chromispos unincenta pos online web apps.](https://a.fsdn.com/con/app/proj/chromis-unicenta-online-apps/screenshots/chromispos%20unicenta%20online%20web%20app%20%286%29.png/max/max/1)
+![Chromispos unincenta pos online web apps.](https://1.bp.blogspot.com/-AFi6NsAHvr4/X2cgWbvvGPI/AAAAAAAALc4/X-F2QaWHVbc7GK_vbtidY_6Ls-QUfT4QwCLcBGAsYHQ/s1349/chromispos%2Bunicenta%2Bonline%2Bweb%2Bapp%2B%25286%2529.png)
 User account
 
 
-![Chromispos unincenta pos online web apps.](https://a.fsdn.com/con/app/proj/chromis-unicenta-online-apps/screenshots/chromispos%20unicenta%20online%20web%20app%20%285%29.png/max/max/1)
+![Chromispos unincenta pos online web apps.](https://1.bp.blogspot.com/-CQ45LbIBE9Q/X2cgWccYDCI/AAAAAAAALc8/8rj3rAi0b_kx2RgJSA0pPW7cW0vlXfwwgCLcBGAsYHQ/s1349/chromispos%2Bunicenta%2Bonline%2Bweb%2Bapp%2B%25285%2529.png)
 Categories items
 
 
-![Chromispos unincenta pos online web apps.](https://a.fsdn.com/con/app/proj/chromis-unicenta-online-apps/screenshots/chromispos%20unicenta%20online%20web%20app%20%284%29.png/max/max/1)
+![Chromispos unincenta pos online web apps.](https://1.bp.blogspot.com/-E1MBuVLAlZw/X2cgWDkWNmI/AAAAAAAALc0/fzHQgA5oxggrjFD1YWmuTrOxXi55vdGQQCLcBGAsYHQ/s1349/chromispos%2Bunicenta%2Bonline%2Bweb%2Bapp%2B%25284%2529.png)
 Cost Price product and item
 
-![Chromispos unincenta pos online web apps.](https://a.fsdn.com/con/app/proj/chromis-unicenta-online-apps/screenshots/chromispos%20unicenta%20online%20web%20app%20%283%29.png/max/max/1)
+![Chromispos unincenta pos online web apps.](https://1.bp.blogspot.com/-XyLOMWOoTm4/X2cgVYZvqzI/AAAAAAAALco/MK5wMm02xzESqYYLVG1hWshApyJ_SNxsQCLcBGAsYHQ/s1349/chromispos%2Bunicenta%2Bonline%2Bweb%2Bapp%2B%25283%2529.png)
 Sell price product items
 
 
-![Chromispos unincenta pos online web apps.](https://a.fsdn.com/con/app/proj/chromis-unicenta-online-apps/screenshots/chromispos%20unicenta%20online%20web%20app%20%282%29.png/max/max/1)
+![Chromispos unincenta pos online web apps.](https://1.bp.blogspot.com/-maCsYp5i0lU/X2cgVt6oiUI/AAAAAAAALcw/Z4hp5uEj9JwKctMaorVyFEfPDdCD7hSTgCLcBGAsYHQ/s1349/chromispos%2Bunicenta%2Bonline%2Bweb%2Bapp%2B%25282%2529.png)
 Cash flow logs
 
 
@@ -87,4 +87,4 @@ For full installation and documentation visit here :
 https://www.hockeycomputindo.com/2020/10/unicenta-pos-with-online-clouds-angular.html
 
 
-Chromispos angular made with ❤ by [laravelapp.sourceforge.io](https://laravelapp.sourceforge.io)
+Chromispos angular made with ❤ by [https://mesinkasironline.web.app](https://mesinkasironline.web.app)
